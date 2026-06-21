@@ -92,3 +92,28 @@ MIT — feel free to use as template.
 
 - Email: afiqandico13@gmail.com
 - GitHub: [@afiqandico13](https://github.com/afiqandico13)
+
+## Changelog
+
+- **2026-06-18**: Initial review (static analysis)
+
+---
+
+## 🔗 Related Work
+
+Sibling security research repos dari author yang sama:
+
+- **[sion-stikom-security-review](https://github.com/afiqandico13/sion-stikom-security-review)** — Comprehensive pentest 2026 (5 findings + CVSS scoring) untuk `*.stikom-bali.ac.id`
+- **[unud-web-security-review](https://github.com/afiqandico13/unud-web-security-review)** — Static review Universitas Udayana website
+
+**Methodology**: Both reviews mengikuti OWASP Testing Guide v4 dengan responsible disclosure principles.
+
+---
+
+## 📊 Author Portfolio
+
+**Afiq Andico Pangimpian** — IT Support @ Cube Cafe Jimbaran · S1 Sistem Informasi ITB STIKOM Bali
+
+- Email: afiqandico13@gmail.com
+- GitHub: [@afiqandico13](https://github.com/afiqandico13)
+- Security portfolio: [github.com/afiqandico13?tab=repositories&q=security-review](https://github.com/afiqandico13?tab=repositories&q=security-review)
